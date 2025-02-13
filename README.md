@@ -1,0 +1,1 @@
+This repository contains a Python example demonstrating a common coding error: the RecursionError caused by infinite recursion in the factorial function when dealing with negative input. The bug.py file shows the erroneous code, leading to the error. The bugSolution.py file provides a corrected version that handles negative input gracefully.
